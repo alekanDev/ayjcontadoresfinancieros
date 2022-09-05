@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67332aff.css",
+    "main.js": "/static/js/main.55400f33.js",
+    "static/js/787.5c6bed9d.chunk.js": "/static/js/787.5c6bed9d.chunk.js",
+    "static/media/background1.jpg": "/static/media/background1.fa083559c266f14f9a69.jpg",
+    "static/media/juanCarlos.jpg": "/static/media/juanCarlos.c4617200be6a672b1ae7.jpg",
+    "static/media/alejandra.jpg": "/static/media/alejandra.8abbe86170e35666c648.jpg",
+    "static/media/crop.png": "/static/media/crop.79a5a4ebb419922424f3.png",
+    "static/media/tributario.png": "/static/media/tributario.03d84b28f3a6cc4d7312.png",
+    "static/media/asesoria.png": "/static/media/asesoria.42906954920f401a734b.png",
+    "static/media/bristol.png": "/static/media/bristol.127105cb78f2ab189739.png",
+    "static/media/aseguramiento.png": "/static/media/aseguramiento.4b2efd7c140215e054f0.png",
+    "static/media/tesara-center.png": "/static/media/tesara-center.85233f31d7315c39b055.png",
+    "static/media/outsourcing.png": "/static/media/outsourcing.94b2e89bf24b9268327d.png",
+    "static/media/dimotriz-center.png": "/static/media/dimotriz-center.d269623974b7bf2d637a.png",
+    "static/media/broekhof-center.png": "/static/media/broekhof-center.10673505e6df17d54de8.png",
+    "static/media/logo.png": "/static/media/logo.bfa6a513d6ee8558abfb.png",
+    "index.html": "/index.html",
+    "main.67332aff.css.map": "/static/css/main.67332aff.css.map",
+    "main.55400f33.js.map": "/static/js/main.55400f33.js.map",
+    "787.5c6bed9d.chunk.js.map": "/static/js/787.5c6bed9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67332aff.css",
+    "static/js/main.55400f33.js"
+  ]
+}
